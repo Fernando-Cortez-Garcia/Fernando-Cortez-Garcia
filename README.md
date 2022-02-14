@@ -1,5 +1,5 @@
-# Hi there 👋
-<h2> Hey there! I'm Fernando.</h2>
+
+<h2> Hey there! I'm Fernando. 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -34,9 +34,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://fernando-cortez-garcia.github.io/personal-web/"><img alt="Website"></a>
-<a href="https://www.linkedin.com/in/fernando-cortez-garcia-8a4a61200/"><img alt="LinkedIn"></a>
-<a href="https://www.instagram.com/fernando_cortez_mx/"><img alt="Instagram"></a>
+ <a href="https://fernando-cortez-garcia.github.io/personal-web/">Personal Web | </a>
+<a href="https://www.linkedin.com/in/fernando-cortez-garcia-8a4a61200/"> Linkedin | </a>
+<a href="https://www.instagram.com/fernando_cortez_mx/"> Instagram </a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
