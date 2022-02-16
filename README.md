@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web app.
 - 🎓 &nbsp; Studying Computer Science at University of Instituto de Estudios Superiores del Estado.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more day by day
 - 😃 &nbsp; I like sports like soccer, basketball and American football.
 - ✍ &nbsp; I like to study on my own.
 
