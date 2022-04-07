@@ -39,7 +39,6 @@
 <a href="https://www.instagram.com/fernando_cortez_mx/"> Instagram </a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
 
 
 <!--
