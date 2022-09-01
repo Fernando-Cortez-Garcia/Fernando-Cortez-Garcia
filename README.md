@@ -1,13 +1,20 @@
 
 <h2> Hey there! I'm Fernando. 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing web app.
-- 🎓 &nbsp; Studying Computer Science at University of Instituto de Estudios Superiores del Estado.
-- 🌱 &nbsp; Learning more day by day
-- 😃 &nbsp; I like sports like soccer, basketball and American football.
-- ✍ &nbsp; I like to study on my own.
+```
+ class Fernando {
+           constructor(edad,preparatoria,universidad,nacionalidad) {
+            this.edad = "22 años";
+            this.preparatoria = "Centro de bachillerato Tecnologico industrial y de Servicios";
+            this.universidad = "Instituto de estudios superiores del Estado";
+            this.nacionalidad = "Mexicana";
+          }
+         
+       }
+```
+
 
 ## 💻 &nbsp;Tech Stack
 
