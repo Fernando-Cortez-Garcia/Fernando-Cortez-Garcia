@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Fernando. 👋</h2>
+<h2> Fernando Cortez Garcia</h2>
 
 <h3> Sobre Mi&nbsp; 👨🏻‍💻  </h3>
 
@@ -40,7 +40,7 @@
 - Consultas Mysql.
 - Manejo de wordpress.
 
-## 🤝🏻 &nbsp;Connect with Me 
+## 🤝🏻 &nbsp;Conectate con migo
 
 <p align="center">
  <a href="https://fernando-cortez-garcia.github.io/personal-web/">Personal Web | </a>
