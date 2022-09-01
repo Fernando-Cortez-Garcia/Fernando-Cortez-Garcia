@@ -1,5 +1,5 @@
 
-<h2> Fernando Cortez Garcia</h2>
+
 
 <h3> Sobre Mi&nbsp; 👨🏻‍💻  </h3>
 
