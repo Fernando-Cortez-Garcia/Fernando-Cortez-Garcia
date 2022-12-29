@@ -40,7 +40,7 @@
 - Consultas Mysql.
 - Manejo de wordpress.
 
-## 🤝🏻 &nbsp;Conectate conmigo
+## 🤝🏻 &nbsp;Conéctate conmigo
 
 <p align="center">
  <a href="https://fernando-cortez-garcia.github.io/personal-web/">Personal Web | </a>
