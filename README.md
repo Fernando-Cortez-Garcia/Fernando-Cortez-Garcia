@@ -36,8 +36,8 @@
 - Frontend con CSS3, Boostrap5 y Java Script.
 - Diseño responsivo.
 - Desarrollo android básico con Java.
-- Consulta y manejo de Apis.
-- Consultas Mysql.
+- Desarrollo de Apis.
+- Mysql , Workbench.
 - Manejo de wordpress.
 
 ## 🤝🏻 &nbsp;Conéctate conmigo
