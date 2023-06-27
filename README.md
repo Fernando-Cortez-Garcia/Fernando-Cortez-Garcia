@@ -10,7 +10,7 @@
             this.preparatoria = "Centro de bachillerato Tecnologico industrial y de Servicios";
             this.universidad = "Instituto de estudios superiores del Estado";
             this.nacionalidad = "Mexicana";
-            this.trabajoActual = "Desarrollador full stack Web Jr";
+            this.trabajoActual = "Lider de Proyectos";
           }
           
          
