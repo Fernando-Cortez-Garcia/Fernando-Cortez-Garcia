@@ -25,17 +25,17 @@
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Nodejs)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 ## Habilidades
 - Maquetado en HTML5.
-- Backend con PHP.
+- Backend con PHP, Nodejs.
 - Frontend con CSS3, Boostrap5 y Java Script.
-- Diseño responsivo.
 - Desarrollo android básico con Java.
 - Desarrollo de Apis.
 - Mysql , Workbench.
-- Manejo de wordpress.
+- Manejo de Wordpress.
 
 ## 🤝🏻 &nbsp;Conéctate conmigo
 
