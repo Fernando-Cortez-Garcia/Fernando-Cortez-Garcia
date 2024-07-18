@@ -40,7 +40,7 @@
 ## 🤝🏻 &nbsp;Conéctate conmigo
 
 <p align="center">
- <a href="https://fernando-cortez-garcia.github.io/personal-web/">Personal Web | </a>
+ <a href="https://fernandocg.netlify.app/">Personal Web | </a>
 <a href="https://www.linkedin.com/in/fernando-cortez-garcia-8a4a61200/"> Linkedin | </a>
 <a href="https://www.instagram.com/fernando_cortez_mx/"> Instagram </a>
 </p>
