@@ -4,7 +4,7 @@
   <pre style="font-size: 12px; line-height: 1.5;">
     class Fernando {
       constructor(edad, preparatoria, universidad, nacionalidad, trabajoActual) {
-        this.edad = "24 años";
+        this.edad = "25 años";
         this.universidad = "Instituto de estudios superiores del Estado";
         this.nacionalidad = "Mexicana";
         this.trabajoActual = "Lider de Proyectos";
