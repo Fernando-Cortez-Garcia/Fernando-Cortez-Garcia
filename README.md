@@ -5,7 +5,6 @@
     class Fernando {
       constructor(edad, preparatoria, universidad, nacionalidad, trabajoActual) {
         this.edad = edad || "25 años";
-        this.preparatoria = preparatoria || "Tu preparatoria"; // Opcional
         this.universidad = universidad || "Instituto de Estudios Superiores del Estado";
         this.nacionalidad = nacionalidad || "Mexicana";
         this.trabajoActual = trabajoActual || "Líder de Proyectos";
