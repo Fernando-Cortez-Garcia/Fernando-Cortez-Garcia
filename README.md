@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
   <pre style="font-size: 12px; line-height: 1.5;">
     class Fernando {
-      constructor(edad, preparatoria, universidad, nacionalidad, trabajoActual) {
+      constructor(edad,universidad, nacionalidad, trabajoActual) {
         this.edad = edad || "25 años";
         this.universidad = universidad || "Instituto de Estudios Superiores del Estado";
         this.nacionalidad = nacionalidad || "Mexicana";
