@@ -1,52 +1,58 @@
-<h3>Sobre Mi 👨🏻‍💻</h3>
-
-<div style="display: flex; align-items: center;">
-  <pre style="font-size: 12px; line-height: 1.5;">
-    class Fernando {
-      constructor(edad,universidad, nacionalidad, trabajoActual) {
-        this.edad = edad || "25 años";
-        this.universidad = universidad || "Instituto de Estudios Superiores del Estado";
-        this.nacionalidad = nacionalidad || "Mexicana";
-        this.trabajoActual = trabajoActual || "Líder de Proyectos";
-      }
-    }
-  </pre>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=60&lines=¡Hola!+Soy+Fernando+👋;Desarrollador+Full+Stack" alt="Typing SVG" />
+  
+  <p>
+    <a href="www.linkedin.com/in/fernando-cortez-garcia-8a4a61200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Fernando-Cortez-Garcia&label=Visitas&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
+---
 
+### 👨🏻‍💻 Sobre Mí
 
+```javascript
+class Fernando {
+  constructor() {
+    this.edad = "26 años";
+    this.nacionalidad = "Mexicana";
+    this.universidad = "Instituto de Estudios Superiores del Estado";
+    this.trabajoActual = "Full stack";
+  }
 
+  getEnfoque() {
+    return [
+      "Arquitectura de software",
+      "Mejora continua",
+      "Trabajo en equipo",
+      "Implementacion de IA en la logica de negocios"
+    ];
+  }
+}
+```
 
+---
 
-| GitHub Streak | Lenguajes más usados | Música que estoy escuchando |
-| ------------- | -------------------- | ----------------------- |
-| ![GitHub Streak](https://streak-stats.demolab.com?user=Fernando-Cortez-Garcia&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5) | ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=Fernando-Cortez-Garcia&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false) | [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=dxehge26ljr6x2sifaahda0gb)](https://open.spotify.com/user/FernandoCortezG) |
-</div><hr>
-
-<h3 align="center">💻 &nbsp;Tecnologías usadas</h3>
+<h3 align="center">💻 Tecnologías y Herramientas</h3>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="express logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,python,php,express,docker,git,vue,bootstrap,nodejs,vscode" alt="My Skills" />
+  </a>
 </div>
 
-<img align="right" height="150" src="https://64.media.tumblr.com/5a187150bc996e22375c7701e9859436/tumblr_nuzdzwxkgF1ufev0ao1_250.gif"  />
+---
 
-<h3>🤝🏻 &nbsp;Conéctate conmigo</h3>
+<h3 align="center">📊 Estadísticas y Actividad</h3>
 
-<p>
-  <a href="https://fernandocg.netlify.app/">Personal Web</a> |
-  <a href="https://www.linkedin.com/in/fernando-cortez-garcia-8a4a61200/">Linkedin</a> |
-  <a href="https://www.instagram.com/fernando_cortez_mx/">Instagram</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fernando-Cortez-Garcia&show_icons=true&locale=es&theme=tokyonight&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fernando-Cortez-Garcia&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="160" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Fernando-Cortez-Garcia&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="160" alt="GitHub Streak" />
+  <a href="https://open.spotify.com/user/FernandoCortezG">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dxehge26ljr6x2sifaahda0gb" height="160" alt="Spotify" />
+  </a>
+</div>
