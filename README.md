@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=60&lines=¡Hola!+Soy+Fernando+👋;Desarrollador+Full+Stack" alt="Typing SVG" />
   
   <p>
-    <a href="www.linkedin.com/in/fernando-cortez-garcia-8a4a61200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/fernando-cortez-garcia-8a4a61200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://komarev.com/ghpvc/?username=Fernando-Cortez-Garcia&label=Visitas&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
